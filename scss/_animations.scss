@@ -1,0 +1,23 @@
+@keyframes bounce {
+  0%{
+    transform: rotate(-45deg);
+  }
+
+  10%{
+    transform: rotate(-35%);
+  }
+
+  70%{
+    transform: rotate(20%);
+  }
+
+  80%{
+    transform: rotate(-10%);
+  }
+  90%{
+    transform: rotate(5%);
+  }
+  100%{
+    transform: rotate(10%);
+  }
+}
